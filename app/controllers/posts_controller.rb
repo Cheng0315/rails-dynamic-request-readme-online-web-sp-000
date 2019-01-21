@@ -1,4 +1,4 @@
-class PostController < ACtiveRecord::Base
+class PostController < ActiveRecord::Base
 
   def show
 
